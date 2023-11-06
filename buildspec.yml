@@ -1,9 +1,9 @@
-version: 0.1
+version: 1
 
 env:
   variables:
     AWS_DEFAULT_REGION: "us-east-1"
-    AWS_ACCOUNT_ID    : "599647319135"
+    AWS_ACCOUNT_ID    : "XXXXXXXXXX"
     IMAGE_REPO_NAME   : "webapp"
     IMAGE_TAG         : "latest"
 
